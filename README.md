@@ -27,4 +27,4 @@ The News App is a simple yet functional web application that provides users with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jayesh/News_Menia.git
+   git clone https://github.com/Jayesh-Kamble/News_Menia.git
