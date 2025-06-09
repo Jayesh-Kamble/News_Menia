@@ -11,10 +11,10 @@ The News App is a simple yet functional web application that provides users with
 
 ## Features
 
-- **Dynamic News Feed**: Fetches and displays the latest news articles based on user-selected categories or search queries.
+- **Dynamic News Feed**: Fetches and displays the latest news  articles based on user-selected categories or search queries.
 - **Breaking News Ticker**: Continuously scrolling marquee for breaking news updates, ensuring that users are always up-to-date with important news.
 - **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
-- **Category Navigation**: Allows users to view news by categories such as IPL, Finance, Politics, Education, and Trending.
+- **Category Navigation**:  Allows users to view news by categories such as  IPL, Finance, Politics, Education, and Trending.
 - **Search Functionality**: Users can search for specific news topics or keywords.
 
 ## Technologies Used
